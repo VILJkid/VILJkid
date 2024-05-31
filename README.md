@@ -4,8 +4,8 @@
 
 <div align="center">
   <h3>Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=viljkid&hide_title=false&custom_title=My%20Stats&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viljkid&locale=en&hide_title=false&layout=compact&card_width=&langs_count=8&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=viljkid&hide_title=false&custom_title=My%20Stats&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="225" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viljkid&locale=en&hide_title=false&layout=compact&card_width=&langs_count=8&theme=dracula&hide_border=false" height="225" alt="languages graph"  />
 </div>
 
 ---
