@@ -57,7 +57,7 @@ Exploring, Experimenting, and Destroying. These I do on a regular basis. I'm int
 Note: Most used languages doesn't indicate my skill level or something. It's a GitHub metric of which languages I have the most code on GitHub.
 
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/sidharth-jawale"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/sidharth-jawale" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <img width="12" />
   <a href="mailto:sidharth.v.jawale@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <img width="12" />
